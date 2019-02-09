@@ -1,0 +1,35 @@
+{
+  "name": "digi-master-node-api",
+  "version": "1.0.0",
+  "description": "DigiPro Media Master RESTFul API with NodeJS by RJ <rj@digipromedia.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigiProMedia/company.api-adotpro-com.git"
+  },
+  "keywords": [
+    "nodejs",
+    "restful",
+    "api"
+  ],
+  "author": "RJ Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigiProMedia/company.api-adotpro-com/issues"
+  },
+  "homepage": "https://github.com/DigiProMedia/company.api-adotpro-com#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.8",
+    "siege": "^0.2.0"
+  }
+}

@@ -1,6 +1,6 @@
 # company-api-billing
 
-DigiPro Media RESTful Company API by rj@digipromedia.com
+Sample RESTful Company API by rj@xpler.com
 Platform: NodeJS
 
 # Installation:
